@@ -51,7 +51,7 @@ The story was also used by the [BBC News Channel](https://drive.google.com/open?
 
 ## Here is the data 
 
-* [Empty premises relief data across Great Britain](https://docs.google.com/spreadsheets/d/1d7ytxfBlHucWl_gWrc2bpyCpxvWJpX95/edit#gid=1232435142)
+* [Empty premises relief data across Great Britain](https://docs.google.com/spreadsheets/d/1HndPYeYcBhTMZuWTtPKaiI-da_K3mDXg_NdjsLSAuRI/edit#gid=0)
 
 ## Background and briefing
 
