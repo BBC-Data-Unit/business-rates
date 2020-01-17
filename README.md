@@ -1,5 +1,7 @@
 # Empty business rates relief 'costs £1bn'
 
+![](https://ichef.bbci.co.uk/news/660/cpsprodpb/10279/production/_110496166_piejackerscustomermiddlesbrough.jpg)
+
 In January 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-48854450) empty businesses costed UK taxpayers £1bn a year, prompting calls for urgent reform of the system.
 
 Some councils lose out on millions of pounds of potential business rates income through a tax relief on empty properties, BBC analysis shows.
