@@ -40,15 +40,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Hereford Times: [Hidden cost of empty shops: Lost business rates costs us millions](https://www.herefordtimes.com/news/regional/18163519.hidden-cost-empty-shops-lost-business-rates-costs-us-millions/) *16 January 2020*
 * Northamptonshire Telegraph: [Empty businesses cost Northants councils millions](https://www.northantstelegraph.co.uk/news/people/empty-businesses-cost-northants-councils-millions-1365693) *16 January 2020*
 * Bromsgrove Advertiser: [Hidden cost of empty shops: Lost business rates costs us millions](https://www.bromsgroveadvertiser.co.uk/news/regional/worcestershire/18163519.hidden-cost-empty-shops-lost-business-rates-costs-us-millions/) *16 January 2020*
+* Business Matters: [Reform demanded as empty business rate costs UK £1BN](https://www.bmmagazine.co.uk/news/reform-demanded-as-empty-business-rate-costs-uk-1bn/) *16 January 2020*
 * Leamington Spa: The Courier: [Taxpayers in Warwick district paying millions to cover lost business rates](https://www.leamingtoncourier.co.uk/news/people/taxpayers-warwick-district-paying-millions-cover-lost-business-rates-1364823) *17 January 2020*
-
-
-
-
-
-
-
-
+* Swindon Advertiser: [Empty shops ‘cost’ council nearly £2m this financial year](https://www.swindonadvertiser.co.uk/news/18167493.empty-shops-cost-council-nearly-2m-financial-year/) *17 January 2020*
+* York: The Press: [York misses out on £3m in business rates - amid calls for new rules](https://www.yorkpress.co.uk/news/18166584.york-misses-3m-business-rates---amid-calls-new-rules/) *17 January 2020*
 
 The story was also used by the BBC News Channel, Look North, South Today, East Midlands Today,  BBC Radio Lincolnshire, BBC Radio Bristol, BBC Radio Nottingham, BBC Radio Scotland, BBC Sussex, Wales Today, BBC Tees, BBC Radio Shropshire, BBC Radio Cumbria, BBC Radio Devon, BBC Radio Ulster, BBC Radio Humberside. 
 
