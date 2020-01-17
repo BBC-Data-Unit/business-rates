@@ -22,6 +22,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Dorset Echo: [£14 million business rate income lost due to empty shops in Dorset](https://www.dorsetecho.co.uk/news/18163339.14-million-business-rate-income-lost-due-empty-shops-dorset/) *16 January 2020*
 * Bridport & Lyme Regis News: [£14 million business rate income lost due to empty shops in Dorset](https://www.bridportnews.co.uk/news/18163340.14-million-business-rate-income-lost-due-empty-shops-dorset/) *16 January 2020*
 * The Argus: [Brighton council losing millions in unpaid business rates](https://www.theargus.co.uk/news/18163154.brighton-council-losing-millions-unpaid-business-rates/) *16 January 2020*
+* The Argus: [Many shops lie empty in Brighton and Hove](https://www.theargus.co.uk/news/18163159.many-shops-lie-empty-brighton-hove/) *16 January 2020*
+* The Argus: [Academic says empty shops are 'slippery slope' for the High Street](https://www.theargus.co.uk/news/18163554.academic-says-empty-shops-slippery-slope-high-street/) *16 January 2020*
 * News & Star with The Cumberland News: [Empty shops cost Cumbrians £20m](https://www.newsandstar.co.uk/news/18162869.empty-shops-cost-cumbrians-20m/) *16 January 2020*
 * The Yorkshire Post: [Empty building owners ‘exploiting loopholes’ to deprive councils of millions](https://www.yorkshirepost.co.uk/business/empty-building-owners-exploiting-loopholes-to-deprive-councils-of-millions-1-10203264) *16 January 2020*
 * Yorkshire Evening Post: [Empty Leeds businesses cost taxpayers more than £100m in five years](https://www.yorkshireeveningpost.co.uk/news/politics/empty-leeds-businesses-cost-taxpayers-more-ps100m-five-years-1364762?fbclid) *16 January 2020*
