@@ -21,6 +21,28 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Romford Recorder: [Revealed: How much do empty businesses in Havering cost the taxpayer?](https://www.romfordrecorder.co.uk/news/empty-business-rates-relief-havering-1-6467822) *16 January 2020*
 * Dorset Echo: [£14 million business rate income lost due to empty shops in Dorset](https://www.dorsetecho.co.uk/news/18163339.14-million-business-rate-income-lost-due-empty-shops-dorset/) *16 January 2020*
 * Bridport & Lyme Regis News: [£14 million business rate income lost due to empty shops in Dorset](https://www.bridportnews.co.uk/news/18163340.14-million-business-rate-income-lost-due-empty-shops-dorset/) *16 January 2020*
+* The Argus: [Brighton council losing millions in unpaid business rates](https://www.theargus.co.uk/news/18163154.brighton-council-losing-millions-unpaid-business-rates/) *16 January 2020*
+* News & Star with The Cumberland News: [Empty shops cost Cumbrians £20m](https://www.newsandstar.co.uk/news/18162869.empty-shops-cost-cumbrians-20m/) *16 January 2020*
+* The Yorkshire Post: [Empty building owners ‘exploiting loopholes’ to deprive councils of millions](https://www.yorkshirepost.co.uk/business/empty-building-owners-exploiting-loopholes-to-deprive-councils-of-millions-1-10203264) *16 January 2020*
+* Yorkshire Evening Post: [Empty Leeds businesses cost taxpayers more than £100m in five years](https://www.yorkshireeveningpost.co.uk/news/politics/empty-leeds-businesses-cost-taxpayers-more-ps100m-five-years-1364762?fbclid) *16 January 2020*
+* Plymouth Live: [The £2.7m a year cost of Plymouth's closed down businesses](https://www.plymouthherald.co.uk/news/business/27m-year-cost-plymouths-closed-3738659) *16 January 2020*
+* Worcester News: [Hidden cost of empty shops: Lost business rates costs us millions](https://www.worcesternews.co.uk/news/18163519.hidden-cost-empty-shops-lost-business-rates-costs-us-millions/?ref=rss&utm_source=dlvr.it&utm_medium=twitter) *16 January 2020*
+* Malvern Gazette: [Hidden cost of empty shops: Lost business rates costs us millions](https://www.malverngazette.co.uk/news/18163520.hidden-cost-empty-shops-lost-business-rates-costs-us-millions/?ref=rss) *16 January 2020*
+* Bolton News: [Business rates cost Bolton council millions in relief for empty units](https://www.theboltonnews.co.uk/news/18163529.business-rates-cost-bolton-council-millions-relief-empty-units/) *16 January 2020*
+* Portsmouth: The News: [Almost £2.5m lost every year due to empty businesses in Portsmouth](https://www.portsmouth.co.uk/news/politics/almost-ps25m-lost-every-year-due-empty-businesses-portsmouth-1366248) *16 January 2020*
+* Lancashire Telegraph: [REVEALED: The cost to taxpayers of business rates relief in East Lancashire](https://www.lancashiretelegraph.co.uk/news/18163481.revealed-cost-taxpayers-business-rates-relief-east-lancashire/?ref=rss&utm_source=dlvr.it&utm_medium=twitter) *16 January 2020*
+* Northampton Chronicle & Echo: [Revealed: Northampton empty businesses cost taxpayer more than £18m over the last five years](https://www.northamptonchron.co.uk/business/revealed-northampton-empty-businesses-cost-taxpayer-more-than-18m-over-the-last-five-years-1-9202960) *16 January 2020*
+* West Bridgford Wire: [Revealed: The cost of empty businesses to the Nottinghamshire boroughs and districts](https://westbridgfordwire.com/revealed-the-cost-of-empty-businesses-to-the-nottinghamshire-boroughs-and-districts/) *16 January 2020*
+* Blackpool: The Gazette: [REVEALED: The millions lost to our vital Blackpool Council services through the tax relief on empty shops](https://www.blackpoolgazette.co.uk/business/revealed-the-millions-lost-to-our-vital-blackpool-council-services-through-the-tax-relief-on-empty-shops-1-10204420) *16 January 2020*
+* Berkshire Live: [The true cost of empty shops in Slough, Reading and Berkshire](https://www.getreading.co.uk/news/business/true-cost-empty-shops-berkshire-17567958) *16 January 2020*
+* Hereford Times: [Hidden cost of empty shops: Lost business rates costs us millions](https://www.herefordtimes.com/news/regional/18163519.hidden-cost-empty-shops-lost-business-rates-costs-us-millions/) *16 January 2020*
+* Northamptonshire Telegraph: [Empty businesses cost Northants councils millions](https://www.northantstelegraph.co.uk/news/people/empty-businesses-cost-northants-councils-millions-1365693) *16 January 2020*
+* Bromsgrove Advertiser: [Hidden cost of empty shops: Lost business rates costs us millions](https://www.bromsgroveadvertiser.co.uk/news/regional/worcestershire/18163519.hidden-cost-empty-shops-lost-business-rates-costs-us-millions/) *16 January 2020*
+* Leamington Spa: The Courier: [Taxpayers in Warwick district paying millions to cover lost business rates](https://www.leamingtoncourier.co.uk/news/people/taxpayers-warwick-district-paying-millions-cover-lost-business-rates-1364823) *17 January 2020*
+
+
+
+
 
 
 
