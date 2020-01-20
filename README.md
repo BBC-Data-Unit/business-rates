@@ -45,6 +45,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Leamington Spa: The Courier: [Taxpayers in Warwick district paying millions to cover lost business rates](https://www.leamingtoncourier.co.uk/news/people/taxpayers-warwick-district-paying-millions-cover-lost-business-rates-1364823) *17 January 2020*
 * Swindon Advertiser: [Empty shops ‘cost’ council nearly £2m this financial year](https://www.swindonadvertiser.co.uk/news/18167493.empty-shops-cost-council-nearly-2m-financial-year/) *17 January 2020*
 * York: The Press: [York misses out on £3m in business rates - amid calls for new rules](https://www.yorkpress.co.uk/news/18166584.york-misses-3m-business-rates---amid-calls-new-rules/) *17 January 2020*
+* Lynn News: [Empty units in West Norfolk costing taxpayers £1m per year](https://www.lynnnews.co.uk/news/empty-units-in-west-norfolk-costing-taxpayers-1m-per-year-9096645/) *17 January 2020*
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1XpaQsCmArjSaUHNKJIm7hCT0cwrE1h3b), Look North, South Today, East Midlands Today,  BBC Radio Lincolnshire, BBC Radio Bristol, BBC Radio Nottingham, BBC Radio Scotland, BBC Sussex, Wales Today, BBC Tees, BBC Radio Shropshire, BBC Radio Cumbria, BBC Radio Devon, BBC Radio Ulster, BBC Radio Humberside. 
 
