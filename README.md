@@ -62,6 +62,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancashire Post: [Preston losing up to £3.2m a year because of empty shops](https://www.lep.co.uk/lifestyle/preston-losing-up-to-3-2m-a-year-because-of-empty-shops-1-10207125) *20 January 2020*
 * Bournemouth Daily Echo: [£14 million business rate income lost due to empty shops in Dorset](https://www.bournemouthecho.co.uk/news/18174496.14-million-business-rate-income-lost-due-empty-shops-dorset/) *21 January 2020*
 * Essex: Daily Gazette: [More than 200 shops and offices across Colchester are lying empty](https://www.gazette-news.co.uk/news/18173191.200-shops-offices-across-colchester-lying-empty/) *21 January 2020*
+* Eastbourne Herald: [Empty shops in Eastbourne are losing more than half a million pounds a year](https://www.eastbourneherald.co.uk/business/empty-shops-eastbourne-are-losing-more-half-million-pounds-year-1384879) *4 February 2020*
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1XpaQsCmArjSaUHNKJIm7hCT0cwrE1h3b), Look North, South Today, East Midlands Today,  BBC Radio Lincolnshire, BBC Radio Bristol, BBC Radio Nottingham, BBC Radio Scotland, BBC Sussex, Wales Today, BBC Tees, BBC Radio Shropshire, BBC Radio Cumbria, BBC Radio Devon, BBC Radio Ulster, BBC Radio Humberside. 
 
