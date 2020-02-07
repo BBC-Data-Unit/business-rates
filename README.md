@@ -45,6 +45,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Hartlepool Mail: [Empty business premises cost Hartlepool tax payers more than £4million over five years - with more predicted to come](https://www.hartlepoolmail.co.uk/business/empty-business-premises-cost-hartlepool-tax-payers-more-ps4million-over-five-years-more-predicted-come-1368527) *16 January 2020*
 * Northumberland Gazette: [Empty business premises cost Northumberland tax payers more than £4million over five years - with more predicted to come](https://www.northumberlandgazette.co.uk/business/empty-business-premises-cost-northumberland-tax-payers-more-ps4million-over-five-years-more-predicted-come-1368531) *16 January 2020*
 * The Shields Gazette: [Empty business premises cost South Tyneside tax payers more than £7million over five years - with more predicted to come](https://www.shieldsgazette.com/news/politics/empty-business-premises-cost-south-tyneside-tax-payers-more-ps7million-over-five-years-more-predicted-come-1368532) *16 January 2020*
+* Liverpool Echo: [Regeneration brings million pound boost to Merseyside region that badly needs it]
+(https://www.liverpoolecho.co.uk/news/liverpool-news/regeneration-brings-million-pound-boost-17574069) *16 January 2020*
 * Gedling Eye: [Empty shops and businesses in Gedling borough cost taxpayer more than £2m over the last five years](https://www.gedlingeye.co.uk/news/business-rates-tax-relief-loss-gedling-borough-council/) *16 January 2020*
 * Business Live: [Empty shops and other businesses cost SW taxpayers £30m a year](https://www.business-live.co.uk/commercial-property/empty-shops-businesses-cost-sw-17571924) *16 January 2020*
 * The Bucks Herald: [Empty shops in Aylesbury have cost the tax payer nearly £11m over the last five years](https://www.bucksherald.co.uk/news/people/empty-shops-aylesbury-have-cost-tax-payer-nearly-ps11m-over-last-five-years-1368034) *17 January 2020*
@@ -62,7 +64,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancashire Post: [Preston losing up to £3.2m a year because of empty shops](https://www.lep.co.uk/lifestyle/preston-losing-up-to-3-2m-a-year-because-of-empty-shops-1-10207125) *20 January 2020*
 * Bournemouth Daily Echo: [£14 million business rate income lost due to empty shops in Dorset](https://www.bournemouthecho.co.uk/news/18174496.14-million-business-rate-income-lost-due-empty-shops-dorset/) *21 January 2020*
 * Essex: Daily Gazette: [More than 200 shops and offices across Colchester are lying empty](https://www.gazette-news.co.uk/news/18173191.200-shops-offices-across-colchester-lying-empty/) *21 January 2020*
+* Lincolnshire Live: [The hidden £30m cost to Lincolnshire taxpayers]
+(https://www.lincolnshirelive.co.uk/news/local-news/hidden-30m-cost-lincolnshire-taxpayers-3733989) *27 January 2020*
 * Eastbourne Herald: [Empty shops in Eastbourne are losing more than half a million pounds a year](https://www.eastbourneherald.co.uk/business/empty-shops-eastbourne-are-losing-more-half-million-pounds-year-1384879) *4 February 2020*
+* Worthing Herald: [Six-figure cost of empty business units in Worthing, Adur and Arun revealed](https://www.worthingherald.co.uk/business/six-figure-cost-empty-business-units-worthing-adur-and-arun-revealed-1384378) *4 February 2020*
+* Scarborough News: [Empty business premises in Scarborough have cost almost £3.5 million over five years]
+(https://www.thescarboroughnews.co.uk/business/empty-business-premises-scarborough-have-cost-almost-ps35-million-over-five-years-1387098) *6 February 2020*
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1XpaQsCmArjSaUHNKJIm7hCT0cwrE1h3b), Look North, South Today, East Midlands Today,  BBC Radio Lincolnshire, BBC Radio Bristol, BBC Radio Nottingham, BBC Radio Scotland, BBC Sussex, Wales Today, BBC Tees, BBC Radio Shropshire, BBC Radio Cumbria, BBC Radio Devon, BBC Radio Ulster, BBC Radio Humberside. 
 
