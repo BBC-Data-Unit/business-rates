@@ -72,8 +72,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 (https://www.lincolnshirelive.co.uk/news/local-news/hidden-30m-cost-lincolnshire-taxpayers-3733989) *27 January 2020*
 * Eastbourne Herald: [Empty shops in Eastbourne are losing more than half a million pounds a year](https://www.eastbourneherald.co.uk/business/empty-shops-eastbourne-are-losing-more-half-million-pounds-year-1384879) *4 February 2020*
 * Worthing Herald: [Six-figure cost of empty business units in Worthing, Adur and Arun revealed](https://www.worthingherald.co.uk/business/six-figure-cost-empty-business-units-worthing-adur-and-arun-revealed-1384378) *4 February 2020*
-* Scarborough News: [Empty business premises in Scarborough have cost almost £3.5 million over five years]
-(https://www.thescarboroughnews.co.uk/business/empty-business-premises-scarborough-have-cost-almost-ps35-million-over-five-years-1387098) *6 February 2020*
+* Scarborough News: [Empty business premises in Scarborough have cost almost £3.5 million over five years](https://www.thescarboroughnews.co.uk/business/empty-business-premises-scarborough-have-cost-almost-ps35-million-over-five-years-1387098) *6 February 2020*
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1XpaQsCmArjSaUHNKJIm7hCT0cwrE1h3b), Look North, South Today, East Midlands Today,  BBC Radio Lincolnshire, BBC Radio Bristol, BBC Radio Nottingham, BBC Radio Scotland, BBC Sussex, Wales Today, BBC Tees, BBC Radio Shropshire, BBC Radio Cumbria, BBC Radio Devon, BBC Radio Ulster, BBC Radio Humberside. 
 
