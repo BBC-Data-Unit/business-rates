@@ -64,12 +64,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lancashire Post: [Preston losing up to £3.2m a year because of empty shops](https://www.lep.co.uk/lifestyle/preston-losing-up-to-3-2m-a-year-because-of-empty-shops-1-10207125) *20 January 2020*
 * Bournemouth Daily Echo: [£14 million business rate income lost due to empty shops in Dorset](https://www.bournemouthecho.co.uk/news/18174496.14-million-business-rate-income-lost-due-empty-shops-dorset/) *21 January 2020*
 * Essex: Daily Gazette: [More than 200 shops and offices across Colchester are lying empty](https://www.gazette-news.co.uk/news/18173191.200-shops-offices-across-colchester-lying-empty/) *21 January 2020*
-* Epping Forest Guardian: [Epping Forest loses almost £5m in five years from empty shops and offices]
-(https://www.eppingforestguardian.co.uk/news/18175113.epping-loses-almost-5m-five-years-empty-unit-tax-reliefs/) *21 January 2020*
-* Rugby Advertiser: [Think Rugby is full of empty shops? It's doing better than the average English high street]
-(https://www.rugbyadvertiser.co.uk/news/people/think-rugby-full-empty-shops-its-doing-better-average-english-high-street-1372805) *22 January 2020*
-* Lincolnshire Live: [The hidden £30m cost to Lincolnshire taxpayers]
-(https://www.lincolnshirelive.co.uk/news/local-news/hidden-30m-cost-lincolnshire-taxpayers-3733989) *27 January 2020*
+* Epping Forest Guardian: [Epping Forest loses almost £5m in five years from empty shops and offices](https://www.eppingforestguardian.co.uk/news/18175113.epping-loses-almost-5m-five-years-empty-unit-tax-reliefs/) *21 January 2020*
+* Rugby Advertiser: [Think Rugby is full of empty shops? It's doing better than the average English high street](https://www.rugbyadvertiser.co.uk/news/people/think-rugby-full-empty-shops-its-doing-better-average-english-high-street-1372805) *22 January 2020*
+* Lincolnshire Live: [The hidden £30m cost to Lincolnshire taxpayers](https://www.lincolnshirelive.co.uk/news/local-news/hidden-30m-cost-lincolnshire-taxpayers-3733989) *27 January 2020*
 * Eastbourne Herald: [Empty shops in Eastbourne are losing more than half a million pounds a year](https://www.eastbourneherald.co.uk/business/empty-shops-eastbourne-are-losing-more-half-million-pounds-year-1384879) *4 February 2020*
 * Worthing Herald: [Six-figure cost of empty business units in Worthing, Adur and Arun revealed](https://www.worthingherald.co.uk/business/six-figure-cost-empty-business-units-worthing-adur-and-arun-revealed-1384378) *4 February 2020*
 * Scarborough News: [Empty business premises in Scarborough have cost almost £3.5 million over five years](https://www.thescarboroughnews.co.uk/business/empty-business-premises-scarborough-have-cost-almost-ps35-million-over-five-years-1387098) *6 February 2020*
