@@ -74,6 +74,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 The story was also used by the [BBC News Channel](https://drive.google.com/open?id=1XpaQsCmArjSaUHNKJIm7hCT0cwrE1h3b), Look North, South Today, East Midlands Today,  BBC Radio Lincolnshire, BBC Radio Bristol, BBC Radio Nottingham, BBC Radio Scotland, BBC Sussex, Wales Today, BBC Tees, BBC Radio Shropshire, BBC Radio Cumbria, BBC Radio Devon, BBC Radio Ulster, BBC Radio Humberside. 
 
+## Visualisation
+
+* Bar chart: Percentage (%) of potential business rates income councils lost out on 2014-2018
+* Bar chart: Lost business rates income from empty properties 2014-2018 (by government region)
 
 ## Here is the data 
 
